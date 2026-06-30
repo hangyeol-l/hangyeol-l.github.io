@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/gallery/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/experiments/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/ideas/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/github-analysis/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/knowledge-base/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/paper-reviews/reinforecement_learning/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/paper-reviews/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/</loc>
+  </url>
+</urlset>
